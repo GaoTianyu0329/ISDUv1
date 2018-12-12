@@ -1,0 +1,6 @@
+framework module Pods_ISDU {
+  umbrella header "Pods-ISDU-umbrella.h"
+
+  export *
+  module * { export * }
+}
